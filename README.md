@@ -7,5 +7,4 @@
 - How to reach me: Discord : biscuitthehob
 - Pronouns: she/her
 - Fun fact: Nah
-- my website https://xengine.yipyip.fr (Hosted by : https://github.com/KofySpace)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscuiTheHobkin&show_icons=true&theme=radical)
