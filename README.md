@@ -7,4 +7,5 @@
 - How to reach me: Discord : biscuitthehob
 - Pronouns: she/her
 - Fun fact: Nah
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscuiTheHobkin&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscuiTheHobkin&show_icons=true&theme=radical)
