@@ -2,6 +2,7 @@
 
 - I’m currently working on somes projects
 - I’m currently learning c# and c++
+- I’m alltime porting/fixing vrchat mods for linux
 - I’m looking to collaborate on ...
 - Ask me about code and idk
 - How to reach me: Discord : biscuitthehob
