@@ -1,12 +1,13 @@
 ### Hi 
 
-- I’m currently working on somes projects
-- I’m currently learning c# and c++
-- I’m alltime porting/fixing vrchat mods for linux
-- I’m looking to collaborate on ...
-- Ask me about code and idk
-- How to reach me: Discord : biscuitthehob
-- Pronouns: she/her
-- Fun fact: Nah
+```ansi
+var Name = "My name: Biscuit";
+var age = 16;
+var discod = "Biscuitthehob";
+
+Console.WriteLine("My name: " + Name);
+Console.WriteLine("My age: " + age);
+Console.WriteLine("My discod: " + discod);
+```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscuiTheHobkin&show_icons=true&theme=radical)
