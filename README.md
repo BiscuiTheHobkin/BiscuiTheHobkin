@@ -4,7 +4,7 @@
 var Name = "My name: Biscuit";
 var age = 16;
 
-Console.WriteLine("My name: " + Name);
+Console.WriteLine(Name);
 Console.WriteLine(age);
 ```
 
